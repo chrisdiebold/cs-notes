@@ -1,0 +1,6 @@
+[book]
+authors = ["Chris Diebold"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Data Structures using C"
